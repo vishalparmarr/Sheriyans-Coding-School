@@ -3,11 +3,11 @@
 <figure align="center">
     <img src="pic1.png"
          alt="Front Design">
-    <figcaption>Frontend Design</figcaption>
+    <figcaption align="center">Frontend Design</figcaption>
 </figure>
-
+</br>
 <figure align="center">
     <img src="pic2.png"
          alt="Front Design">
-    <figcaption>Responsive Design</figcaption>
+    <figcaption align="center" >Responsive Design</figcaption>
 </figure>
